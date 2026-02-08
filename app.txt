@@ -1,1 +1,2 @@
 MAIN: Production version of application
+RELEASE v1.0: Tested and stable
