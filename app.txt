@@ -1,6 +1,4 @@
 MAIN: Production version of application
-<<<<<<< HEAD
 FEATURE LOGIN: User login functionality
-=======
 HOTFIX: Critical production bug fixed
->>>>>>> hotfix/critical-fix
+
