@@ -1,1 +1,2 @@
 MAIN: Production version of application
+HOTFIX: Critical production bug fixed
