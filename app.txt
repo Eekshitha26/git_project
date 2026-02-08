@@ -1,1 +1,2 @@
 MAIN: Production version of application
+FEATURE LOGIN: User login functionality
